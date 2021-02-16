@@ -3,7 +3,7 @@ R is a tool for doing serious statistics and data analysis. But not everything i
 
 The arrangement of leaves on a plant stem is ruled by spirals. This fact is called <span style="color:blue">**phyllotaxis**</span> and it is a nice example of how mathematics can describe patterns in nature. In this project, we will invent flowers using this fact.
 
-This R project assumes you have familiarity with the ggplot2 package. If you want to see more examples of how you can use R to make art, you should check out the Fronkonstin blog created by Antonio Sánchez Chinchón.
+This `R` project assumes you have familiarity with the `ggplot2` package. If you want to see more examples of how you can use `R` to make art, you should check out **the Fronkonstin blog** created by Antonio Sánchez Chinchón.
 
 # Project Tasks
 1. Patterns in nature
